@@ -27,7 +27,7 @@ const CurrencyConverter = () => {
    
 
     return (
-        <div className="flex   flex-col mx-5 items-center mt-20 md:mt-10 p-6 bg-gray-800 bg-opacity-50 backdrop-blur-sm rounded-lg shadow-md w-full max-w-md md:mx-auto">
+        <div className="flex   flex-col items-center mt-20 md:mt-10 p-6 bg-gray-800 bg-opacity-50 backdrop-blur-sm rounded-lg shadow-md w-full max-w-md md:mx-auto">
             <h1 className="text-2xl font-bold mb-4 text-gray-100">Currency Converter</h1>
             <div className="w-full">
                 <input
